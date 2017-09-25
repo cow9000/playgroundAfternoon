@@ -5,7 +5,7 @@ import UIKit
 var changeString : String = "I am a "
 changeString += " dog"
 
-let changedString = changeString.replacingOccurrences(of: "dog", with: "cat")
+let changedString = changeString.replacingOccurrences(of: "dog", with: "cat", options: .literal)
 
 print (changedString)
 
