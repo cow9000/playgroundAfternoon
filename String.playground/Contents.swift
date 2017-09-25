@@ -5,6 +5,11 @@ import UIKit
 var changeString : String = "I am a "
 changeString += " dog"
 
+let changedString = changeString.replacingOccurrences(of: "dog", with: "cat")
+
+print (changedString)
+
+
 let math = 5
 let mathMessage = "\(math) is a number... \(math * 2)"
 
