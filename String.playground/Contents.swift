@@ -3,7 +3,7 @@
 import UIKit
 
 var changeString : String = "I am a "
-changeString += " dog"
+changeString += " dog 🐥 🐥"
 
 let changedString = changeString.replacingOccurrences(of: "dog", with: "cat", options: .literal)
 
@@ -29,3 +29,10 @@ if compareString1 == compareString2 {
     print ("They are not equal")
     
 }
+
+var age = 2415
+var speed = 256.3333231
+var rate = age/Int (speed)
+
+var 🐥 = "🐥"
+print(🐥)
