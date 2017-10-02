@@ -48,6 +48,14 @@ public class OtherClass{
         self.favoriteWord += " and more and more"
     }
     
+    public func getFavoriteNumber() -> Int{
+        return favoriteNumber
+    }
+    
+    public func getFavoriteWord() -> String{
+        return favoriteWord
+    }
+    
 }
 
 var secondClass = OtherClass()
