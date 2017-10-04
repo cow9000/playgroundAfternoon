@@ -2,5 +2,25 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dvaw7563/playgroundAfternoon/UI.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=173&amp;EndingColumnNumber=14&amp;EndingLineNumber=6&amp;StartingColumnNumber=1&amp;StartingLineNumber=6&amp;Timestamp=528834482.89494"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dvaw7563/playgroundAfternoon/UI.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=299&amp;EndingColumnNumber=7&amp;EndingLineNumber=11&amp;StartingColumnNumber=1&amp;StartingLineNumber=11&amp;Timestamp=528834482.895049"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dvaw7563/playgroundAfternoon/UI.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=366&amp;EndingColumnNumber=8&amp;EndingLineNumber=15&amp;StartingColumnNumber=1&amp;StartingLineNumber=15&amp;Timestamp=528834482.895129"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dvaw7563/playgroundAfternoon/UI.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=462&amp;EndingColumnNumber=15&amp;EndingLineNumber=21&amp;StartingColumnNumber=8&amp;StartingLineNumber=21&amp;Timestamp=528834482.895208"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
